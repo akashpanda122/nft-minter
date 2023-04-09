@@ -1,3 +1,5 @@
+
+
 import Navbar from "../pages/navbar"
 import Buttons from "./buttons";
 function Main(){
